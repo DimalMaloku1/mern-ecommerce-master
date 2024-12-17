@@ -2,7 +2,6 @@
 
 About This Project:
 
--   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
 -   💳 Stripe Payment Setup
 -   🔐 Robust Authentication System
